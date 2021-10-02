@@ -10,8 +10,7 @@
 
 <h3 align="left">CONNECT WITH ME :</h3>
 
-  [](www.instagram.com/desole_triste_prince)
-
+  [INSTAGRAM](www.instagram.com/desole_triste_prince)
 
 * HERE ARE MY SKILLS*  🟦
  
