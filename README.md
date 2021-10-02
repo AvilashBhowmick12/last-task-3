@@ -9,16 +9,9 @@
 - 📧 How to reach me **avilash_b.it2021@msit.edu.in**
 
 <h3 align="left">CONNECT WITH ME :</h3>
-<p align="left">
-  
-  <a href="www.instagram.com/desole_triste_prince" target="blank"><image align="center" src=" https://github.com/AvilashBhowmick12/last-task-3/blob/main/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" alt="GIF" height="30" width="40" /></a>
-  
-  </p>
-  
-<img align="center" src=" https://github.com/AvilashBhowmick12/last-task-3/blob/main/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" width="40" height="30" />
 
+  [](www.instagram.com/desole_triste_prince)
 
-<img src=" https://github.com/AvilashBhowmick12/last-task-3/blob/main/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg"/>
 
 * HERE ARE MY SKILLS*  🟦
  
