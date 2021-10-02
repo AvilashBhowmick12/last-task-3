@@ -11,7 +11,7 @@
 <h3 align="left">CONNECT WITH ME :</h3>
 <p align="left">
   
-  <a href="www.instagram.com/desole_triste_prince" target="blank"><image align="center" img src=" https://github.com/AvilashBhowmick12/last-task-3/blob/main/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" alt="" height="30" width="40" /></a>
+  <a href="www.instagram.com/desole_triste_prince" target="blank"><image align="center" img src=" https://github.com/AvilashBhowmick12/last-task-3/blob/main/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg" alt="jpeg" height="30" width="40" /></a>
   
   </p>
   
