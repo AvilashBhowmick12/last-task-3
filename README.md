@@ -1,2 +1,5 @@
-# last-task-3
-ok, this was a task given on the last day (3rd day) of the online event organised by Cybernix-Phoenix collaboration with Hacktober. the event was  organised on 1st october, 2021. thank you.
+<h1 align="center"> HI 🤙 , I'M AVILASH BHOWMICK</h1>
+
+<h3 align="center"> I'm presently studying at Meghnad Saha Institute of Technology, Ruby Park, Kolkata.</h3>
+
+![](https://www.graphicmania.net/creative-animated-gifs-project-by-mat-lucas/.gif)
