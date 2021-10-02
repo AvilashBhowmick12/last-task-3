@@ -2,4 +2,4 @@
 
 <h3 align="center"> I'm presently studying at Meghnad Saha Institute of Technology, Ruby Park, Kolkata.</h3>
 
-![](https://www.graphicmania.net/creative-animated-gifs-project-by-mat-lucas/.gif)
+![]("https://www.graphicmania.net/creative-animated-gifs-project-by-mat-lucas/".gif)
