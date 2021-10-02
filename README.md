@@ -20,3 +20,22 @@
 
 <img src=" https://github.com/AvilashBhowmick12/last-task-3/blob/main/computer-icons-instagram-logo-sticker-png-favpng-LZmXr3KPyVbr8LkxNML458QV3.jpg"/>
 
+* HERE ARE MY SKILLS*  🟦
+ 
+| S.NO | Skills| 
+|---| ---|
+|1.| React|
+|2.| C++|
+|3.| Graphic designer|
+|4.| Freelancer|
+
+## Courses  🔴
+1. GovOfIndia
+2. Unacademy
+3. Coursera
+
+## Languages
+- ENGLISH
+- HINDI
+- BENGALI
+
